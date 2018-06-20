@@ -1,0 +1,53 @@
+.jumbotron{
+	background-image: url("assets/images/bg2.jpg");
+	background-size: cover;
+	color: white;
+	padding: 5%;
+	margin-top: -5%;
+	margin-bottom: 5%;
+	text-align: center;
+}
+
+.jumbotron h1{
+	font-size: 3em;
+}
+
+.jumbotron p{
+	font-size: 0.8em;
+}
+.container{
+	text-align: center;
+}
+
+.foto{
+	border-radius: 5%;
+	border: 7px solid #EEEDEC;
+	text-align: center;
+	padding-bottom: 5%;
+	overflow: hidden;
+	margin: 5% 0;
+}
+
+.foto h2{
+	font-size: 18px;
+}
+
+.foto p{
+	font-size: 12px;
+	width: 60%;
+	margin-left: 20%;
+}
+
+button{
+	margin: 2%;
+}
+
+footer{
+	text-align: center;
+	border: 3px solid #EEEDEC;
+	font-size: 0.8em;
+}
+
+.propiedades{
+	padding: 0;
+}
